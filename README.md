@@ -24,7 +24,6 @@ while also handling user input efficiently.
 4️⃣ The result is displayed in the console  
 
 ## 📝 Code Example
----
 ```csharp
 Write("Select an option + - * /");
 char op = char.Parse(ReadLine());
@@ -48,12 +47,10 @@ else
     WriteLine("You selected a wrong option.");
 }
 
-⭐ If you found this project useful, consider giving it a star! 🚀
----
----
 🔗 More Information
 👨‍💻 Developer: Evangelos Gallos
-🌍 Portfolio: www.evgallos.com
+🌍 Portfolio: https://www.evgallos.com
 📧 Contact: evangelos.gallos@gmail.com
-📌 Repository: https://gihub.com/Evgallos/Calculator
----
+📌 Repository: https://www.gihub.com/Evgallos/Calculator
+
+⭐ If you found this project useful, consider giving it a star! 🚀
