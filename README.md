@@ -23,7 +23,8 @@ while also handling user input efficiently.
 3️⃣ The program performs the calculation  
 4️⃣ The result is displayed in the console  
 
-## 📝 Code Example  
+## 📝 Code Example
+---
 ```csharp
 Write("Select an option + - * /");
 char op = char.Parse(ReadLine());
@@ -49,9 +50,3 @@ else
 
 ⭐ If you found this project useful, consider giving it a star! 🚀
 ---
-
-🔗 More Information
-👨‍💻 Developer: Evangelos Gallos
-🌍 Portfolio: www.evgallos.com
-📧 Contact: evangelos.gallos@gmail.com
-📌 Repository: https://gihub.com/Evgallos/Calculator
