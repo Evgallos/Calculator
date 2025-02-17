@@ -49,7 +49,7 @@ else
 
 🔗 More Information
 👨‍💻 Developer: Evangelos Gallos
-🌍 [Portfolio](https://www.evgallos.com)
+🌍 Portfolio: https://www.evgallos.com
 📧 Contact: evangelos.gallos@gmail.com
 📌 Repository: https://www.gihub.com/Evgallos/Calculator
 
