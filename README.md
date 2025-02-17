@@ -49,8 +49,8 @@ else
 
 🔗 More Information
 👨‍💻 Developer: Evangelos Gallos
-🌍 Portfolio: https://www.evgallos.com
+🌍 Portfolio - Live: www.evgallos.com
 📧 Contact: evangelos.gallos@gmail.com
-📌 Repository: https://www.gihub.com/Evgallos/Calculator
+📌 Repository: www.gihub.com/Evgallos/Calculator
 
 ⭐ If you found this project useful, consider giving it a star! 🚀
