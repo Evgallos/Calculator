@@ -46,10 +46,12 @@ else
 {
     WriteLine("You selected a wrong option.");
 }
+
+⭐ If you found this project useful, consider giving it a star! 🚀
+---
+
 🔗 More Information
 👨‍💻 Developer: Evangelos Gallos
 🌍 Portfolio: www.evgallos.com
 📧 Contact: evangelos.gallos@gmail.com
 📌 Repository: https://gihub.com/Evgallos/Calculator
-
-⭐ If you found this project useful, consider giving it a star! 🚀
