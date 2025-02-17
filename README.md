@@ -1,4 +1,4 @@
-## 🖩 Simple Console Calculator in C##
+## 🖩 Simple Console Calculator in C#
 
 ## 📌 About the Project  
 This is a **console-based calculator** built in **C#**, designed as part of my System Developer studies.  
